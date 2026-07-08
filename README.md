@@ -12,7 +12,8 @@ Official repository for **SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Gen
 
 <p align="center">
   <a href="https://kimgeonung.github.io/SceneFrom3D/"><strong>Project Page</strong></a> |
-  <a href="https://kimgeonung.github.io/assets/scenefrom3d/paper.pdf"><strong>Paper</strong></a>
+  <a href="https://kimgeonung.github.io/assets/scenefrom3d/paper.pdf"><strong>Paper</strong></a> |
+  <a href="https://arxiv.org/abs/2607.04540"><strong>arXiv</strong></a>
 </p>
 
 <p align="center">
